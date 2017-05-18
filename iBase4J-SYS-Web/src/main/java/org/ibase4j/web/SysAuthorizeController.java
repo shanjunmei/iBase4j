@@ -27,7 +27,7 @@ import io.swagger.annotations.ApiOperation;
  * 权限管理
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:14:05
+ * @version 2017年5月20日 下午3:14:05
  */
 @RestController
 @Api(value = "权限管理", description = "权限管理")

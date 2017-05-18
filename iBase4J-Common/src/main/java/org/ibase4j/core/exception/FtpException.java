@@ -6,7 +6,7 @@ import org.ibase4j.core.support.HttpCode;
  * FTP异常
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:19:19
+ * @version 2017年5月18日 下午20:21:19
  */
 @SuppressWarnings("serial")
 public class FtpException extends BaseException {

@@ -8,7 +8,7 @@ import org.ibase4j.core.support.HttpCode;
 /**
  * 
  * @author LiMiaoMiao
- * @version 2016年6月7日 下午8:46:11
+ * @version 2017年5月7日 下午8:46:11
  */
 @SuppressWarnings("serial")
 public class IllegalParameterException extends BaseException {

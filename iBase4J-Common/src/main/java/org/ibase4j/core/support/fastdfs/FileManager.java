@@ -21,7 +21,7 @@ import com.alibaba.fastjson.JSON;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年6月27日 上午9:51:06
+ * @version 2017年5月27日 上午9:51:06
  */
 @SuppressWarnings("serial")
 public class FileManager implements Config {

@@ -13,7 +13,7 @@ import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;
 /**
  * Parsing The Configuration File
  * @author LiMiaoMiao
- * @version 2016年7月30日 下午11:41:53
+ * @version 2017年7月30日 下午11:41:53
  */
 public final class PropertiesUtil extends PropertyPlaceholderConfigurer {
     private static final byte[] KEY = {9, -1, 0, 5, 39, 8, 6, 19};

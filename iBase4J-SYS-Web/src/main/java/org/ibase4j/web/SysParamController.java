@@ -21,7 +21,7 @@ import io.swagger.annotations.ApiOperation;
  * 参数管理
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:15:19
+ * @version 2017年5月20日 下午3:15:19
  */
 @RestController
 @Api(value = "系统参数管理", description = "系统参数管理")

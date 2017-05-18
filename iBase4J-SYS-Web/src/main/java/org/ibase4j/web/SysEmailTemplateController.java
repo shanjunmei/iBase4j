@@ -19,7 +19,7 @@ import io.swagger.annotations.ApiOperation;
  * 邮件模版管理控制类
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:13:31
+ * @version 2017年5月20日 下午3:13:31
  */
 @RestController
 @Api(value = "邮件模版管理", description = "邮件模版管理")

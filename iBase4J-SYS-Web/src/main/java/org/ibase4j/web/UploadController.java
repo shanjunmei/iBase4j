@@ -20,7 +20,7 @@ import io.swagger.annotations.ApiOperation;
  * 文件上传控制器
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:11:42
+ * @version 2017年5月20日 下午3:11:42
  */
 @RestController
 @Api(value = "文件上传接口", description = "文件上传接口")

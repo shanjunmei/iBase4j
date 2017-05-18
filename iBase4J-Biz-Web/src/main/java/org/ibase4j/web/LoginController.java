@@ -38,7 +38,7 @@ import io.swagger.annotations.ApiParam;
  * 用户登录
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:11:21
+ * @version 2017年5月20日 下午3:11:21
  */
 @RestController
 @Api(value = "APP登录接口", description = "APP登录接口")

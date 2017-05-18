@@ -11,7 +11,7 @@ import org.springframework.context.i18n.LocaleContextHolder;
  * 加载配置
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:19:19
+ * @version 2017年5月18日 下午20:21:19
  */
 public final class Resources {
     /** 第三方登录配置 */

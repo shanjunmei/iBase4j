@@ -29,7 +29,7 @@ import io.swagger.annotations.ApiOperation;
  * 第三方登录控制类
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:12:56
+ * @version 2017年5月20日 下午3:12:56
  */
 @Controller
 @Api(value = "第三方登录接口", description = "第三方登录接口")

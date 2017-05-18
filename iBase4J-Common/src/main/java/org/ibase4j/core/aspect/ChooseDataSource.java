@@ -12,7 +12,7 @@ import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
  * 获取数据源
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:17:16
+ * @version 2017年5月20日 下午3:17:16
  */
 public class ChooseDataSource extends AbstractRoutingDataSource {
 	public static Map<String, List<String>> METHODTYPE = new HashMap<String, List<String>>();

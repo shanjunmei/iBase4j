@@ -4,7 +4,7 @@ import org.csource.common.NameValuePair;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年6月27日 上午9:36:30
+ * @version 2017年5月27日 上午9:36:30
  */
 public class FastDfsFile {
 	private String groupName;

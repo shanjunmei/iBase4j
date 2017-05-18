@@ -21,7 +21,7 @@ import io.swagger.annotations.ApiOperation;
  * 字典管理
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:14:34
+ * @version 2017年5月20日 下午3:14:34
  */
 @RestController
 @Api(value = "字典管理", description = "字典管理")

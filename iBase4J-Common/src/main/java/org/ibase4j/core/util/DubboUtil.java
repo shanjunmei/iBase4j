@@ -9,7 +9,7 @@ import com.alibaba.dubbo.config.spring.ReferenceBean;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年5月27日 下午4:23:06
+ * @version 2017年5月27日 下午4:23:06
  */
 public class DubboUtil {
     private DubboUtil() {

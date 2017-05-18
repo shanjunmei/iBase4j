@@ -22,7 +22,7 @@ import org.ibase4j.core.exception.FtpException;
  * FTP上传下载
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:19:19
+ * @version 2017年5月18日 下午20:21:19
  */
 public class FtpClient {
 	private Logger logger = LogManager.getLogger(getClass());

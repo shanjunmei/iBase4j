@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
  * 关于异常的工具类.
  * 
  * @author LiMiaoMiao
- * @version 2016年6月14日 下午7:09:53
+ * @version 2017年5月14日 下午7:09:53
  */
 public class ExceptionUtil {
 

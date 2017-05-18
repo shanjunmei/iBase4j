@@ -35,7 +35,7 @@ import io.swagger.annotations.ApiOperation;
  * 用户管理控制器
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:12:12
+ * @version 2017年5月20日 下午3:12:12
  */
 @RestController
 @Api(value = "用户管理", description = "用户管理")

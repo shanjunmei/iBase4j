@@ -6,7 +6,7 @@ import org.codehaus.xfire.client.Client;
 
 /**
  * @author ShenHueJie
- * @version 2016年5月24日 下午5:25:11
+ * @version 2017年5月24日 下午5:25:11
  */
 public final class WebServiceUtil {
 	private WebServiceUtil() {

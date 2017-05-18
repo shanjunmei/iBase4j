@@ -13,7 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年6月21日 上午9:50:58
+ * @version 2017年5月21日 上午9:50:58
  */
 @Configuration
 @EnableWebMvc

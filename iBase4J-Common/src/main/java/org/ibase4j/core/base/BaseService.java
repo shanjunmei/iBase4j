@@ -31,7 +31,7 @@ import com.baomidou.mybatisplus.plugins.Page;
  * 继承基类后必须配置CacheConfig(cacheNames="")
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:19:19
+ * @version 2017年5月18日 下午20:21:19
  */
 public abstract class BaseService<T extends BaseModel> implements ApplicationContextAware {
     protected Logger logger = LogManager.getLogger(getClass());

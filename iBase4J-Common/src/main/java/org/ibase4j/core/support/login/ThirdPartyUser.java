@@ -7,7 +7,7 @@ import org.ibase4j.core.base.BaseModel;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:26:23
+ * @version 2017年5月20日 下午3:26:23
  */
 @SuppressWarnings("serial")
 public class ThirdPartyUser extends BaseModel {

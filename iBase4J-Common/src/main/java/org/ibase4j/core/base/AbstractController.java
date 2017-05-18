@@ -18,7 +18,7 @@ import com.baomidou.mybatisplus.plugins.Page;
  * 控制器基类
  * 
  * @author LiMiaoMiao
- * @version 2016年5月20日 下午3:47:58
+ * @version 2017年5月20日 下午3:47:58
  */
 public abstract class AbstractController<T extends BaseProvider> extends BaseController {
     protected final Logger logger = LogManager.getLogger(this.getClass());

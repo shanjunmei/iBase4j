@@ -11,7 +11,7 @@ import javax.activation.MimetypesFileTypeMap;
 
 /**
  * @author LiMiaoMiao
- * @version 2016年6月27日 上午9:50:51
+ * @version 2017年5月27日 上午9:50:51
  */
 @SuppressWarnings("serial")
 public class FileModel implements Serializable {

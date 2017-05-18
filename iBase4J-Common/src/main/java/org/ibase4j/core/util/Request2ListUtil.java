@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * @author ShenHueJie
- * @version 2016年5月20日 下午3:28:02
+ * @version 2017年5月20日 下午3:28:02
  */
 public final class Request2ListUtil {
 	private Request2ListUtil() {

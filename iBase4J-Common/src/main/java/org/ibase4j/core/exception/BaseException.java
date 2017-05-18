@@ -10,7 +10,7 @@ import org.springframework.ui.ModelMap;
 /**
  * 
  * @author LiMiaoMiao
- * @version 2016年6月7日 下午8:43:02
+ * @version 2017年5月7日 下午8:43:02
  */
 @SuppressWarnings("serial")
 public abstract class BaseException extends RuntimeException {

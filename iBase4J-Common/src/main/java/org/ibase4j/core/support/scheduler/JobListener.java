@@ -24,7 +24,7 @@ import com.alibaba.fastjson.JSON;
  * 调度监听器
  * 
  * @author LiMiaoMiao
- * @version 2016年5月27日 下午4:31:31
+ * @version 2017年5月27日 下午4:31:31
  */
 public class JobListener implements org.quartz.JobListener {
 	private static Logger logger = LogManager.getLogger(JobListener.class);
