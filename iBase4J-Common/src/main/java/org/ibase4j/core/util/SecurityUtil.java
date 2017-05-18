@@ -12,7 +12,7 @@ import org.ibase4j.core.support.security.coder.SHACoder;
 /**
  * 数据加密辅助类(默认编码UTF-8)
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2011-12-31
  */
 public final class SecurityUtil {

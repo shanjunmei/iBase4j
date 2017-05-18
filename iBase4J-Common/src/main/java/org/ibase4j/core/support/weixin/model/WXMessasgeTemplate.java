@@ -1,7 +1,7 @@
 package org.ibase4j.core.support.weixin.model;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017年2月3日 下午5:08:21
  */
 public class WXMessasgeTemplate {

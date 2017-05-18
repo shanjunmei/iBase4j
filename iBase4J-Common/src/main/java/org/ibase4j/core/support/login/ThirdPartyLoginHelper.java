@@ -16,7 +16,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * 第三方登录辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:44:45
  */
 public final class ThirdPartyLoginHelper {

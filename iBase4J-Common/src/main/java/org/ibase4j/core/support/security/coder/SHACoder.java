@@ -10,7 +10,7 @@ import org.ibase4j.core.support.security.SecurityCoder;
 /**
  * SHA加密组件
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 1.0
  * @since 1.0
  */

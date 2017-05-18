@@ -37,7 +37,7 @@ import jxl.write.biff.RowsExceededException;
 /**
  * 下载EXCEL文件
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2011-11-08
  */
 @SuppressWarnings("deprecation")

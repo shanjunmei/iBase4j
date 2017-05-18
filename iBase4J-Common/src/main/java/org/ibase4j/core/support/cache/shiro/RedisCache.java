@@ -20,7 +20,7 @@ import org.ibase4j.core.util.CacheUtil;
 
 /**
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2017年3月24日 下午8:54:08
  */
 public class RedisCache<K, V> implements Cache<K, V> {

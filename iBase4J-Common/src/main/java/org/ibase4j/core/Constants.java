@@ -7,8 +7,8 @@ import org.ibase4j.core.util.InstanceUtil;
 /**
  * 常量表
  * 
- * @author ShenHuaJie
- * @version $Id: Constants.java, v 0.1 2014-2-28 上午11:18:28 ShenHuaJie Exp $
+ * @author LiMiaoMiao
+ * @version $Id: Constants.java, v 0.1 2014-2-28 上午11:18:28 LiMiaoMiao Exp $
  */
 public interface Constants {
     /**

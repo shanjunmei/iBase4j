@@ -26,7 +26,7 @@ import com.baomidou.mybatisplus.plugins.Page;
 /**
  * SysUser服务实现类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016-08-27 22:39:42
  */
 @Service

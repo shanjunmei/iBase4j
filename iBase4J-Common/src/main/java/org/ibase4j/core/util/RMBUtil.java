@@ -3,7 +3,7 @@ package org.ibase4j.core.util;
 /**
  * 字符串辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2011-11-08
  */
 public final class RMBUtil {

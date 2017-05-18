@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:19:19
  */
 @Service

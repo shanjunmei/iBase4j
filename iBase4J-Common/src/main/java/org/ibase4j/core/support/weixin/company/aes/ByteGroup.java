@@ -3,7 +3,7 @@ package org.ibase4j.core.support.weixin.company.aes;
 import java.util.ArrayList;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017年2月3日 下午5:20:04
  */
 public class ByteGroup {

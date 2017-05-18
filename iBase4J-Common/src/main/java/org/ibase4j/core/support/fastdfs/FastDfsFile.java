@@ -3,7 +3,7 @@ package org.ibase4j.core.support.fastdfs;
 import org.csource.common.NameValuePair;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年6月27日 上午9:36:30
  */
 public class FastDfsFile {

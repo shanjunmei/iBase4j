@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 /**
  * 身份证验证辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2011-11-08
  */
 public final class IDCardUtil {
@@ -156,7 +156,7 @@ public final class IDCardUtil {
 	/**
 	 * 性别
 	 * 
-	 * @author ShenHuaJie
+	 * @author LiMiaoMiao
 	 */
 	public enum Sex {
 		/**

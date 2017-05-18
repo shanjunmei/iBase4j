@@ -22,7 +22,7 @@ import org.springframework.web.util.WebUtils;
 /**
  * Web层辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年4月2日 下午4:19:28
  */
 public final class WebUtil {

@@ -29,7 +29,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 内存调度管理
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年4月2日 下午4:20:10
  */
 @RestController

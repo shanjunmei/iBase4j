@@ -12,8 +12,8 @@ import org.ibase4j.core.util.CacheUtil;
 /**
  * 会话监听器
  * 
- * @author ShenHuaJie
- * @version $Id: SessionListener.java, v 0.1 2014年3月28日 上午9:06:12 ShenHuaJie Exp
+ * @author LiMiaoMiao
+ * @version $Id: SessionListener.java, v 0.1 2014年3月28日 上午9:06:12 LiMiaoMiao Exp
  */
 public class SessionListener implements HttpSessionListener {
 	private Logger logger = LogManager.getLogger(SessionListener.class);

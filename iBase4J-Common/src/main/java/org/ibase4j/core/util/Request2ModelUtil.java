@@ -13,7 +13,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:19:19
  */
 public final class Request2ModelUtil {

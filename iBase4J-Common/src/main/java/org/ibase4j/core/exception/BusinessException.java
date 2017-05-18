@@ -3,7 +3,7 @@ package org.ibase4j.core.exception;
 import org.ibase4j.core.support.HttpCode;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:19:19
  */
 @SuppressWarnings("serial")

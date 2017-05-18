@@ -37,7 +37,7 @@ import io.swagger.annotations.ApiParam;
 /**
  * 用户登录
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:11:21
  */
 @RestController

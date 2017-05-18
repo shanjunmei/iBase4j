@@ -16,7 +16,7 @@ import org.ibase4j.core.support.DataType;
 /**
  * 类型转换辅助工具类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2011-11-08
  */
 public final class TypeParseUtil {

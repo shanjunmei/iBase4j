@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2017年3月18日 下午1:40:45
  */
 @SuppressWarnings("serial")

@@ -27,8 +27,8 @@ import org.slf4j.LoggerFactory;
 /**
  * 邮件引擎
  * 
- * @author ShenHuaJie
- * @version $Id: MailEntrance.java, v 0.1 2014年12月4日 下午8:34:48 ShenHuaJie Exp $
+ * @author LiMiaoMiao
+ * @version $Id: MailEntrance.java, v 0.1 2014年12月4日 下午8:34:48 LiMiaoMiao Exp $
  */
 public final class EmailSender {
 	private final Logger logger = LoggerFactory.getLogger(EmailSender.class);

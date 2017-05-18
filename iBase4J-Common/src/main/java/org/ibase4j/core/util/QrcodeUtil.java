@@ -25,7 +25,7 @@ import com.google.zxing.common.HybridBinarizer;
 /**
  * 二维码工具类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017年2月21日 下午1:30:29
  */
 public class QrcodeUtil {

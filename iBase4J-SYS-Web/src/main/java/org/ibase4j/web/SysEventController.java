@@ -17,7 +17,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * 系统日志控制类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:13:31
  */
 @RestController

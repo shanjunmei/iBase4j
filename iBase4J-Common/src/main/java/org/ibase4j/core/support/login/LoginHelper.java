@@ -10,7 +10,7 @@ import org.ibase4j.core.config.Resources;
 import org.ibase4j.core.exception.LoginException;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:44:45
  */
 public final class LoginHelper {

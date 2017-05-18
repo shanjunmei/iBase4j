@@ -15,7 +15,7 @@ import org.springframework.util.ObjectUtils;
 /**
  * Assertion utility class that assists in validating arguments.
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年6月8日 下午6:37:02
  */
 public abstract class Assert {

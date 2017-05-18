@@ -7,8 +7,8 @@ import org.ibase4j.core.base.BaseModel;
 /**
  * 计划任务信息
  * 
- * @author ShenHuaJie
- * @version $Id: ScheduleJob.java, v 0.1 2015-1-19 下午7:35:44 ShenHuaJie Exp $
+ * @author LiMiaoMiao
+ * @version $Id: ScheduleJob.java, v 0.1 2015-1-19 下午7:35:44 LiMiaoMiao Exp $
  */
 @SuppressWarnings("serial")
 public class TaskScheduled extends BaseModel {

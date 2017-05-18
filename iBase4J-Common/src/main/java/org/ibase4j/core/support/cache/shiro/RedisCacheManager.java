@@ -15,7 +15,7 @@ import org.ibase4j.core.Constants;
 
 /**
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2017年3月24日 下午8:50:14
  */
 public class RedisCacheManager implements CacheManager {

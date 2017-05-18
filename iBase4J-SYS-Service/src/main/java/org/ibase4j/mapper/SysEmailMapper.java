@@ -8,7 +8,7 @@ import org.ibase4j.model.SysEmail;
  * Mapper接口
  * </p>
  *
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017-01-29
  */
 public interface SysEmailMapper extends BaseMapper<SysEmail> {

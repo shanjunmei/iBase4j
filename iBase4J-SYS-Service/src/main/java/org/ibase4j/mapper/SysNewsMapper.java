@@ -8,7 +8,7 @@ import org.ibase4j.model.SysNews;
  * Mapper接口
  * </p>
  *
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017-01-29
  */
 public interface SysNewsMapper extends BaseMapper<SysNews> {

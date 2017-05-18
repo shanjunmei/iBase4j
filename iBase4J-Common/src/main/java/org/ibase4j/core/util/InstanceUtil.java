@@ -35,7 +35,7 @@ import com.esotericsoftware.reflectasm.MethodAccess;
 /**
  * 实例辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2012-07-18
  */
 public final class InstanceUtil {

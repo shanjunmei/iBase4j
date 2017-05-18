@@ -7,7 +7,7 @@ import org.ibase4j.core.support.HttpCode;
 
 /**
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2017年3月24日 下午9:30:10
  */
 @SuppressWarnings("serial")

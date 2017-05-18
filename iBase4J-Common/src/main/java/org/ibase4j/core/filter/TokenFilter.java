@@ -31,7 +31,7 @@ import org.ibase4j.core.util.WebUtil;
 import com.alibaba.fastjson.JSON;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017年3月19日 上午10:21:59
  */
 public class TokenFilter implements Filter {

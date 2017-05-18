@@ -11,7 +11,7 @@ import net.coobird.thumbnailator.Thumbnails;
 /**
  * 图片处理辅助类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2012-03-21
  */
 public final class ImageUtil {

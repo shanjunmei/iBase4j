@@ -33,7 +33,7 @@ import com.baomidou.mybatisplus.plugins.Page;
 /**
  * 权限检查类
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:44:45
  */
 public class Realm extends AuthorizingRealm {

@@ -6,8 +6,8 @@ import org.ibase4j.core.support.email.EmailSender;
 /**
  * 发送邮件辅助类
  * 
- * @author ShenHuaJie
- * @version $Id: MailUtil.java, v 0.1 2014年12月4日 下午8:22:43 ShenHuaJie Exp $
+ * @author LiMiaoMiao
+ * @version $Id: MailUtil.java, v 0.1 2014年12月4日 下午8:22:43 LiMiaoMiao Exp $
  */
 public final class EmailUtil {
 	private EmailUtil() {

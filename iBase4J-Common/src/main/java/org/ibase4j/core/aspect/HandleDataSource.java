@@ -1,7 +1,7 @@
 package org.ibase4j.core.aspect;
 
 /**
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:18:04
  */
 public class HandleDataSource {

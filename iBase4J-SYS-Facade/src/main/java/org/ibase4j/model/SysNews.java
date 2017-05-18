@@ -13,7 +13,7 @@ import com.baomidou.mybatisplus.annotations.TableName;
  * 新闻表
  * </p>
  *
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @since 2017-01-29
  */
 @SuppressWarnings("serial")

@@ -5,7 +5,7 @@ import org.ibase4j.core.support.HttpCode;
 /**
  * FTP异常
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:19:19
  */
 @SuppressWarnings("serial")

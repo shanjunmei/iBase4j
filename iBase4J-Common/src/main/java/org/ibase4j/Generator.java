@@ -16,7 +16,7 @@ import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 /**
  * 代码生成 注意：不生成service接口 注意：不生成service接口 注意：不生成service接口
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  */
 public class Generator {
 	/**
@@ -36,7 +36,7 @@ public class Generator {
 		gc.setBaseResultMap(false);// XML ResultMap
 		gc.setBaseColumnList(false);// XML columList
 		gc.setOpen(false);
-		gc.setAuthor("ShenHuaJie");
+		gc.setAuthor("LiMiaoMiao");
 		// 自定义文件命名，注意 %s 会自动填充表实体属性！
 		// gc.setMapperName("%sDao");
 		// gc.setXmlName("%sDao");

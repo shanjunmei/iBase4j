@@ -10,7 +10,7 @@ import org.ibase4j.core.support.HttpCode;
 /**
  * 恶意请求拦截器
  * 
- * @author ShenHuaJie
+ * @author LiMiaoMiao
  * @version 2016年5月20日 下午3:16:57
  */
 public class MaliciousRequestInterceptor extends BaseInterceptor {
